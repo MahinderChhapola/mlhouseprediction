@@ -19,7 +19,7 @@ Second, open a new tab on the terminal and run prediction script:
 ./make_prediction.sh
 ```
 
-## How to run using Kubernetes
+### How to run using Kubernetes
 
 First, you need to run the above docker script to follow kubernetes steps.
 
@@ -35,7 +35,7 @@ Finally, you can run verify with prediction script:
 ./make_prediction.sh
 ```
 
-## Project files structure and description
+### Project files structure and description
 
 The project files consists of main python application, dockerfile, requirements and automation scripts to run the project using the one-line command.
 
